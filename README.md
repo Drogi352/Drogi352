@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drogi352
-- 👀 I’m interested in making Front Ends for websites
+- 👀 I’m interested in making Frontend for websites
 - 🌱 I’m currently learning HTML and CSS 
 - 💞️ I’m looking to collaborate on with small business 
 - 📫 How to reach me
